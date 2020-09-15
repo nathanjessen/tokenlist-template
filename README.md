@@ -77,6 +77,8 @@ Settings -> Branches
 
 Branch protection rules -> Add rule
 
+Branch name pattern: `master`
+
 Check the boxes for
 
 * Require status checks to pass before merging
