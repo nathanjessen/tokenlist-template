@@ -1,0 +1,32 @@
+{
+    "name": "My Tokenlist",
+    "logoURI": "https://raw.githubusercontent.com/nathanjessen/tokenlist/master/img/ethereum_logo.png",
+    "keywords": [
+      "defi"
+    ],
+    "tags": {
+      "defi": {
+        "name": "Defi",
+        "description": "Digital assets and financial smart contracts, protocols, and decentralized applications built on Ethereum"
+      }
+    },
+    "timestamp": "2020-09-15T00:00:00+00:00",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
+        "symbol": "SWAP",
+        "name": "Trustswap",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/nathanjessen/tokenlist/master/img/trustswap_32.png",
+        "tags": [
+          "defi"
+        ]
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
