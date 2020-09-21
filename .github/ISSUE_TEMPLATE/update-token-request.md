@@ -3,7 +3,6 @@ name: Update token request
 about: Update an existing token in the tokenlist.
 title: 'Request: update {Token name}'
 labels: update-request
-assignees: nathanjessen
 
 ---
 

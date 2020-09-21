@@ -3,7 +3,6 @@ name: Add token request
 about: Add a token to the tokenlist
 title: 'Request: add {Token name}'
 labels: add-request
-assignees: nathanjessen
 
 ---
 
