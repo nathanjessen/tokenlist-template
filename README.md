@@ -2,7 +2,7 @@
 
 [![Schema](https://github.com/nathanjessen/tokenlist/workflows/Schema/badge.svg)](https://github.com/nathanjessen/tokenlist/actions?query=workflow%3ASchema)
 
-*** Update this badge with your own repository address when you clone/fork the repository. ***
+**Update this badge with your own repository address when you clone/fork the repository.**
 
 Template for creating a tokenlist and validating against Uniswap token schema.
 
