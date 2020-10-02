@@ -1,5 +1,5 @@
 {
-    "name": "tokenlist",
+    "name": "tokenlist-template",
     "version": "1.0.0",
     "description": "Template for creating a tokenlist with schema validation",
     "main": "index.mjs",
